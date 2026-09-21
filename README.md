@@ -16,6 +16,7 @@ A RESTful HTTP server in Go that provides public keys via JSON Web Key Sets (JWK
 ### Installation
 ```bash
 go mod download
+
 ## Submission Verification
 
 ### Test Suite & Code Coverage
